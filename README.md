@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-v2.png" alt="探索 AI 科技，分享无限乐趣" width="520" />
+  <img src="./assets/banner-v3.png" alt="探索 AI 科技，分享无限乐趣" width="520" />
 </p>
 
 <p align="center">
@@ -16,10 +16,9 @@
 
 ### 先说清楚
 
-我不追求「又一个 AI 玩具」。
-
-我更在意工具能不能进真实工作流：审得过第一原理、删得掉冗余、上线后还站得住。  
-能跑通和敢长期用，中间隔着一整条工程链——我愿意把这段路走完，再拿出来分享。
+我是小黑，做 AI 工具与工程实践。  
+开源里放的是我自己在用、审过、能交接的东西——少玩具，多闭环。  
+想上手：下面三个仓库任选一个点进去。
 
 ---
 
@@ -31,8 +30,7 @@
 
 #### 🛡 [ai-code-review](https://github.com/miguchn/ai-code-review)
 
-企业旁侧的 AI 审查治理平台。  
-不是多刷几条评论，而是：接入 → 审查 → 回写 → IM → 问题台账 → 度量。
+给企业研发团队：把 PR/MR 审查从「刷评论」变成可指派、可复核、可度量的治理闭环。
 
 `Java` · `Vue` · 四平台 · Apache-2.0
 
@@ -41,8 +39,7 @@
 
 #### 🗂 [ai-chatline](https://github.com/miguchn/ai-chatline)
 
-给 AI 对话页补上时间轴、收藏、高亮和导出。  
-对话还是原来的，整理方式终于像样了。
+给天天聊 AI 的人：在原对话页直接定位、收藏、高亮和导出，不用换产品。
 
 [Chrome 商店安装](https://chromewebstore.google.com/detail/chatline-ai-chat-enhanced/oiifmbmllkahpcagifgoedoiinohnfen) · GPL-3.0
 
@@ -51,8 +48,7 @@
 
 #### 🧰 [migu_skill](https://github.com/miguchn/migu_skill)
 
-我真实在用的 Agent Skills。  
-用过、审过、精简过——宁缺毋滥。
+给 Agent 用户：装上就能用的实战 Skills，用过、精简过——宁缺毋滥。
 
 Claude Code / Codex · MIT
 
