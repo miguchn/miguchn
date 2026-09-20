@@ -1,31 +1,92 @@
-# 👋 嗨，我是小黑（MiguCHN）
+<p align="center">
+  <img src="./assets/banner.png" alt="别动生产库 — Don't touch prod. Ship carefully." width="900" />
+</p>
 
-做 AI 工具与工程实践的独立开发者。微信公众号「**别动生产库**」——聊 AI 工具、工程实践，以及保险科技里的真实工作场景。
+<p align="center">
+  <strong>小黑 · MiguCHN</strong><br/>
+  <em>微信公众号「别动生产库」· AI 工具与工程实践</em>
+</p>
 
-**在找什么：** 开源协作、反馈、以及愿意一起把工具用到实处的人。
+<p align="center">
+  <a href="https://x.com/MiguCHN"><img src="https://img.shields.io/badge/𝕏-@MiguCHN-111111?style=flat-square" alt="X" /></a>
+  <img src="https://img.shields.io/badge/公众号-别动生产库-07C160?style=flat-square" alt="WeChat" />
+  <a href="mailto:miguchn@gmail.com"><img src="https://img.shields.io/badge/邮件-miguchn@gmail.com-EA4335?style=flat-square" alt="Email" /></a>
+</p>
 
 ---
 
-## 🚀 代表作
+### 先说清楚
 
-| 项目 | 一句话 |
+我不追求「又一个 AI 玩具」。
+
+我更在意工具能不能进真实工作流：审得过第一原理、删得掉冗余、上线后还站得住。  
+公众号叫「**别动生产库**」，不是恐吓——是提醒：能跑通和敢放进生产，中间隔着一整条工程链。
+
+---
+
+### 开源里放的，是我自己在用的
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### 🛡 [ai-code-review](https://github.com/miguchn/ai-code-review)
+
+企业旁侧的 AI 审查治理平台。  
+不是多刷几条评论，而是：接入 → 审查 → 回写 → IM → 问题台账 → 度量。
+
+`Java` · `Vue` · 四平台 · Apache-2.0
+
+</td>
+<td width="33%" valign="top">
+
+#### 🗂 [ai-chatline](https://github.com/miguchn/ai-chatline)
+
+给 AI 对话页补上时间轴、收藏、高亮和导出。  
+对话还是原来的，整理方式终于像样了。
+
+[Chrome 商店安装](https://chromewebstore.google.com/detail/chatline-ai-chat-enhanced/oiifmbmllkahpcagifgoedoiinohnfen) · GPL-3.0
+
+</td>
+<td width="33%" valign="top">
+
+#### 🧰 [migu_skill](https://github.com/miguchn/migu_skill)
+
+「别动生产库」真实在用的 Agent Skills。  
+用过、审过、精简过——宁缺毋滥。
+
+Claude Code / Codex · MIT
+
+</td>
+</tr>
+</table>
+
+---
+
+### 写作与原则
+
+| 我写什么 | 我怎么选开源 |
 |---|---|
-| [**ai-code-review**](https://github.com/miguchn/ai-code-review) | 企业级 AI 代码审查治理平台：GitHub / GitLab / Gitee / Gitea 统一接入，审查 → 回写 → 通知 → 问题处置全闭环 |
-| [**ai-chatline**](https://github.com/miguchn/ai-chatline) | 开源浏览器扩展：给 ChatGPT、Gemini、Claude、DeepSeek 等对话页加时间轴、收藏、高亮与导出（[Chrome 商店](https://chromewebstore.google.com/detail/chatline-ai-chat-enhanced/oiifmbmllkahpcagifgoedoiinohnfen)） |
-| [**migu_skill**](https://github.com/miguchn/migu_skill) | 「别动生产库」真实在用的 Agent Skills，按第一原理审过再开源 |
+| AI 工具怎么嵌进工程 | 真实用过，验证有效 |
+| 保险科技里的工作现场 | 第一原理审查，冗余删干净 |
+| 少一点幻觉，多一点可复核 | 单文件能带走，不绑死环境 |
+
+> 轻量但闭环完整。重型报告有更好的原版；这里放的是扛得住日常的那一档。
 
 ---
 
-## 📡 在哪找到我
+### 在忙什么
 
-- 𝕏 [@MiguCHN](https://x.com/MiguCHN)
-- 微信公众号：别动生产库
-- 邮箱：[miguchn@gmail.com](mailto:miguchn@gmail.com)
+```text
+[●] 把 AI 审查从「评论」做成「可治理」
+[●] 把对话增强做成可安装、可审计的扩展
+[●] 把工作流里验证过的 skill 精简后开源
+[ ] 少做演示，多做能交接的东西
+```
 
 ---
 
-<div align="center">
-
-*Exploring AI × engineering, and shipping things that hold up in real work.*
-
-</div>
+<p align="center">
+  <sub>来都来了，给一个感兴趣的仓库点个 ⭐ —— 比关注更有用。</sub><br/>
+  <sub>Don't touch prod. Ship carefully.</sub>
+</p>
