@@ -1,15 +1,14 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="别动生产库 — Don't touch prod. Ship carefully." width="900" />
+  <img src="./assets/banner.png" alt="探索 AI 科技，分享无限乐趣" width="520" />
 </p>
 
 <p align="center">
   <strong>小黑 · MiguCHN</strong><br/>
-  <em>微信公众号「别动生产库」· AI 工具与工程实践</em>
+  <em>探索 AI 科技，分享无限乐趣</em>
 </p>
 
 <p align="center">
   <a href="https://x.com/MiguCHN"><img src="https://img.shields.io/badge/𝕏-@MiguCHN-111111?style=flat-square" alt="X" /></a>
-  <img src="https://img.shields.io/badge/公众号-别动生产库-07C160?style=flat-square" alt="WeChat" />
   <a href="mailto:miguchn@gmail.com"><img src="https://img.shields.io/badge/邮件-miguchn@gmail.com-EA4335?style=flat-square" alt="Email" /></a>
 </p>
 
@@ -20,7 +19,7 @@
 我不追求「又一个 AI 玩具」。
 
 我更在意工具能不能进真实工作流：审得过第一原理、删得掉冗余、上线后还站得住。  
-公众号叫「**别动生产库**」，不是恐吓——是提醒：能跑通和敢放进生产，中间隔着一整条工程链。
+能跑通和敢长期用，中间隔着一整条工程链——我愿意把这段路走完，再拿出来分享。
 
 ---
 
@@ -52,7 +51,7 @@
 
 #### 🧰 [migu_skill](https://github.com/miguchn/migu_skill)
 
-「别动生产库」真实在用的 Agent Skills。  
+我真实在用的 Agent Skills。  
 用过、审过、精简过——宁缺毋滥。
 
 Claude Code / Codex · MIT
@@ -68,10 +67,10 @@ Claude Code / Codex · MIT
 | 我写什么 | 我怎么选开源 |
 |---|---|
 | AI 工具怎么嵌进工程 | 真实用过，验证有效 |
-| 保险科技里的工作现场 | 第一原理审查，冗余删干净 |
+| 工作现场里踩过的坑 | 第一原理审查，冗余删干净 |
 | 少一点幻觉，多一点可复核 | 单文件能带走，不绑死环境 |
 
-> 轻量但闭环完整。重型报告有更好的原版；这里放的是扛得住日常的那一档。
+> 轻量但闭环完整。这里放的是扛得住日常的那一档。
 
 ---
 
@@ -88,5 +87,5 @@ Claude Code / Codex · MIT
 
 <p align="center">
   <sub>来都来了，给一个感兴趣的仓库点个 ⭐ —— 比关注更有用。</sub><br/>
-  <sub>Don't touch prod. Ship carefully.</sub>
+  <sub>探索 AI 科技，分享无限乐趣</sub>
 </p>
