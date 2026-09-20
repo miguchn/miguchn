@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="探索 AI 科技，分享无限乐趣" width="520" />
+  <img src="./assets/banner-v2.png" alt="探索 AI 科技，分享无限乐趣" width="520" />
 </p>
 
 <p align="center">
